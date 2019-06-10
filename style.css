@@ -1,0 +1,17 @@
+
+body{
+  border-style: solid;
+  /* border-radius: 20px; */
+  border-color: black;
+}
+section{
+  display: flex;
+}
+.miles{
+  justify-content: center;
+  margin: auto;
+}
+.submit-btn{
+  justify-content: center;
+  margin: auto;
+}
